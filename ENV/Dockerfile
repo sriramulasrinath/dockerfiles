@@ -1,4 +1,4 @@
 FROM almalinux:9
-LABEL name="srinath"\
+ENV name="srinath"\
       company="TCS"\
       place="Chennai"
