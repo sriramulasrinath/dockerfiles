@@ -1,1 +1,1 @@
-FROM arg:1.0 
+FROM onbuild-srinath.1.0 
